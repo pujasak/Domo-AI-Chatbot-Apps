@@ -1,0 +1,5 @@
+{
+  "name": "NEP 2020 Chatbot",
+  "description": "An AI assistant for the National Education Policy, powered by Domo RAG.",
+  "requestFramePermissions": []
+}
